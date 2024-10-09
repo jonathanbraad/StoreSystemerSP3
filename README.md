@@ -53,6 +53,7 @@ The Layered Architecture pattern organizes the system into:
 By adopting this approach, we ensure the development process remains efficient and manageable, with each layer focusing on a distinct responsibility.
 
 ## Use Case Diagram
+![Use Case Diagram](./path-to-your-image/your-image-filename.png)
 
 Our Use Case Diagram represents the main interactions users will have with the system:
 - **Account Management**: Users can register, log in, and manage their profiles.
@@ -62,6 +63,7 @@ Our Use Case Diagram represents the main interactions users will have with the s
 This diagram provides an overview of the core functionalities we’re focusing on in this project.
 
 ## Domain Model
+![Domain Model](./path-to-your-image/your-image-filename.png)
 
 Our Domain Model outlines the key entities and their relationships:
 - **User**: Represents users with details like login credentials, ratings, and profile information.
@@ -71,6 +73,7 @@ Our Domain Model outlines the key entities and their relationships:
 This model forms the backbone of our system’s data structure and supports key business logic like recommendations and user interactions.
 
 ## Sequence Diagram
+![Sequence Diagram](./path-to-your-image/your-image-filename.png)
 
 The Sequence Diagram details the interaction flow between the frontend (Razor Views), business logic layer, and data access layer:
 1. The user initiates a request (e.g., searching for a program).
