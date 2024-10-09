@@ -53,7 +53,7 @@ The Layered Architecture pattern organizes the system into:
 By adopting this approach, we ensure the development process remains efficient and manageable, with each layer focusing on a distinct responsibility.
 
 ## Use Case Diagram
-![Use Case Diagram](./path-to-your-image/your-image-filename.png)
+![Use Case Diagram](Usecase.png)
 
 Our Use Case Diagram represents the main interactions users will have with the system:
 - **Account Management**: Users can register, log in, and manage their profiles.
